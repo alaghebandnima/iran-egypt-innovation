@@ -1,0 +1,12 @@
+{
+  "start": 2005,
+  "end": 2024,
+  "years": 20,
+  "source_metrics": 51,
+  "derived_metrics": 4,
+  "metrics": 55,
+  "source_values_two_countries": 1941,
+  "source_published_estimates": 38,
+  "retrieved": "2026-11-16",
+  "revision": "Three explicitly retained coverage exceptions; SWIID disposable-income Gini replaces World Bank Gini"
+}

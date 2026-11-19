@@ -1,0 +1,36 @@
+﻿country,indicator,gap_kind,gap_length,target_years,method,method_fa,match,validated_length,validation_points,validation_MAE,source_years
+IRN,IP.PAT.RESD,internal,1,2015,weighted,میانگین‌گیری وزنی,matched,1,8,1178.625,19
+IRN,IP.JRN.ARTC.SC,trailing,1,2024,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,1,8,2632.6120501389078,19
+IRN,IT.NET.BBND.P2,leading,1,2005,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,1,8,0.6130871520009777,19
+IRN,IT.NET.SECR.P6,leading,5,2005;2006;2007;2008;2009,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,5,40,579.3765333852836,15
+IRN,NY.GDP.TOTL.RT.ZS,trailing,3,2022;2023;2024,local_trend,روند محلیِ تعدیل‌شده,matched,3,24,5.511630627371789,17
+IRN,PA.NUS.FCRF,trailing,1,2024,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,1,8,2150.981874599829,19
+IRN,SE.TER.ENRR.FE,trailing,2,2023;2024,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,2,16,3.4757294054601804,18
+IRN,SE.TER.ENRR,trailing,2,2023;2024,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,2,16,4.450672217136965,18
+IRN,IP.PAT.NRES,internal,1,2015,weighted,میانگین‌گیری وزنی,matched,1,8,80.125,19
+IRN,EG.FEC.RNEW.ZS,trailing,3,2022;2023;2024,local_trend,روند محلیِ تعدیل‌شده,matched,3,24,0.11350293377640133,17
+IRN,EG.ELC.RNEW.ZS,trailing,3,2022;2023;2024,local_trend,روند محلیِ تعدیل‌شده,matched,3,24,1.5866555045001574,17
+IRN,SH.XPD.CHEX.GD.ZS,trailing,1,2024,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,1,8,0.48221686601189084,19
+IRN,TX.VAL.TECH.CD,leading,6,2005;2006;2007;2008;2009;2010,local_trend,روند محلیِ تعدیل‌شده,matched,6,12,106532784.33471753,11
+IRN,TX.VAL.TECH.CD,internal,1,2012,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,1,8,33414118.854589686,11
+IRN,TX.VAL.TECH.CD,trailing,2,2023;2024,trend_curve,منحنی روند,matched,2,14,34719182.96604592,11
+IRN,GB.XPD.RSDV.GD.ZS,internal,1,2007,trend_curve,منحنی روند,matched,1,1,0.1602395986705195,11
+IRN,GB.XPD.RSDV.GD.ZS,internal,1,2011,trend_curve,منحنی روند,matched,1,1,0.1602395986705195,11
+IRN,GB.XPD.RSDV.GD.ZS,internal,1,2014,trend_curve,منحنی روند,matched,1,1,0.1602395986705195,11
+IRN,GB.XPD.RSDV.GD.ZS,internal,1,2016,trend_curve,منحنی روند,matched,1,1,0.1602395986705195,11
+IRN,GB.XPD.RSDV.GD.ZS,internal,1,2018,trend_curve,منحنی روند,matched,1,1,0.1602395986705195,11
+IRN,GB.XPD.RSDV.GD.ZS,internal,1,2020,trend_curve,منحنی روند,matched,1,1,0.1602395986705195,11
+IRN,GB.XPD.RSDV.GD.ZS,trailing,3,2022;2023;2024,trend_curve,منحنی روند,shorter_gap_fallback,2,4,0.2082065047405441,11
+IRN,SWIID.GINI.DISP,trailing,1,2024,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,1,8,0.2864386119271325,19
+EGY,IP.PAT.RESD,internal,1,2006,local_trend,روند محلیِ تعدیل‌شده,matched,1,8,49.87053570257122,19
+EGY,IP.JRN.ARTC.SC,trailing,1,2024,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,1,8,701.8089183791407,19
+EGY,IT.NET.SECR.P6,leading,5,2005;2006;2007;2008;2009,trend_curve,منحنی روند,matched,5,40,6.058833224205093,15
+EGY,CM.MKT.LCAP.GD.ZS,leading,1,2005,trend_curve,منحنی روند,matched,1,8,5.762553652369862,19
+EGY,NY.GDP.TOTL.RT.ZS,trailing,3,2022;2023;2024,trend_curve,منحنی روند,matched,3,24,2.3737405314171416,17
+EGY,SL.UEM.NEET.ZS,leading,3,2005;2006;2007,local_trend,روند محلیِ تعدیل‌شده,matched,3,24,2.18749539144403,17
+EGY,IP.PAT.NRES,internal,1,2006,weighted,میانگین‌گیری وزنی,matched,1,8,61.75,19
+EGY,EG.FEC.RNEW.ZS,trailing,3,2022;2023;2024,trend_curve,منحنی روند,matched,3,24,0.42051090160620225,17
+EGY,EG.ELC.RNEW.ZS,trailing,3,2022;2023;2024,trend_curve,منحنی روند,matched,3,24,1.2601848724726963,17
+EGY,SH.XPD.CHEX.GD.ZS,trailing,1,2024,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,1,8,0.23683358455802095,19
+EGY,TX.VAL.TECH.CD,leading,3,2005;2006;2007,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,3,24,81510298.8551271,17
+EGY,SWIID.GINI.DISP,trailing,1,2024,state_space,وضعیت پنهان؛ فیلتر و هموارساز کالمن,matched,1,8,0.2037830424564535,19
