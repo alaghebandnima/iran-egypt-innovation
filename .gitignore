@@ -1,0 +1,33 @@
+# Environments and generated Python files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Local settings, credentials and private documents
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.docx
+*.docm
+.streamlit/secrets.toml
+# Runtime artifacts and model weights
+*.log
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+*.sqlite3-journal
+*.db
+app/ollama_models/
+app/ollama_runtime/
+app/models/
+node_modules/
+*.gguf
+*.partial
+# OS files
+.DS_Store
+Thumbs.db
